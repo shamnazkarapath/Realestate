@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>S:\JRLog</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="adlog.aspx">
+      <publishTime>07/04/2020 23:15:06</publishTime>
+    </File>
+    <File Include="admin.aspx">
+      <publishTime>07/13/2020 12:24:08</publishTime>
+    </File>
+    <File Include="assets/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/bootstrap/css/bootstrap.min.css">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/bootstrap/js/bootstrap.min.js">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/dropdown/css/style.css">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/dropdown/js/script.min.js">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/formoid/formoid.min.js">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/images/20.jpg">
+      <publishTime>07/07/2020 12:43:06</publishTime>
+    </File>
+    <File Include="assets/images/21.jpg">
+      <publishTime>07/07/2020 12:43:06</publishTime>
+    </File>
+    <File Include="assets/images/22.jpg">
+      <publishTime>07/07/2020 12:43:06</publishTime>
+    </File>
+    <File Include="assets/images/23.jpg">
+      <publishTime>07/07/2020 12:43:06</publishTime>
+    </File>
+    <File Include="assets/images/24.jpg">
+      <publishTime>07/07/2020 12:43:06</publishTime>
+    </File>
+    <File Include="assets/images/25.jpg">
+      <publishTime>07/07/2020 12:43:06</publishTime>
+    </File>
+    <File Include="assets/images/26.jpg">
+      <publishTime>07/07/2020 12:43:06</publishTime>
+    </File>
+    <File Include="assets/images/27.jpg">
+      <publishTime>07/13/2020 13:38:26</publishTime>
+    </File>
+    <File Include="assets/images/28.jpg">
+      <publishTime>07/13/2020 13:38:26</publishTime>
+    </File>
+    <File Include="assets/images/29.JPG">
+      <publishTime>07/07/2020 12:43:06</publishTime>
+    </File>
+    <File Include="assets/images/breather-196135-2800x1863.jpg">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/images/breather-196135-4928x3280.jpg">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/images/breather-7169-2000x1335.jpg">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/images/colin-maynard-138246-2500x1667.jpg">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/images/hannah-busing-310234-2000x1333.jpg">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/images/hashes.json">
+      <publishTime>07/07/2020 14:00:50</publishTime>
+    </File>
+    <File Include="assets/images/img1.jpg">
+      <publishTime>06/25/2020 23:17:54</publishTime>
+    </File>
+    <File Include="assets/images/img10.jpg">
+      <publishTime>06/26/2020 14:35:28</publishTime>
+    </File>
+    <File Include="assets/images/img11.jpg">
+      <publishTime>06/26/2020 14:35:28</publishTime>
+    </File>
+    <File Include="assets/images/img12.jpg">
+      <publishTime>06/26/2020 14:35:28</publishTime>
+    </File>
+    <File Include="assets/images/img16.jpg">
+      <publishTime>06/26/2020 14:35:28</publishTime>
+    </File>
+    <File Include="assets/images/img2.jpg">
+      <publishTime>06/25/2020 23:17:54</publishTime>
+    </File>
+    <File Include="assets/images/img3.jpg">
+      <publishTime>06/25/2020 23:17:54</publishTime>
+    </File>
+    <File Include="assets/images/img4.jpg">
+      <publishTime>06/25/2020 23:17:54</publishTime>
+    </File>
+    <File Include="assets/images/img5.jpg">
+      <publishTime>06/25/2020 23:17:54</publishTime>
+    </File>
+    <File Include="assets/images/img6.jpg">
+      <publishTime>06/25/2020 23:17:54</publishTime>
+    </File>
+    <File Include="assets/images/imga.jpg">
+      <publishTime>06/26/2020 14:05:22</publishTime>
+    </File>
+    <File Include="assets/images/imgc.jpg">
+      <publishTime>06/26/2020 14:09:00</publishTime>
+    </File>
+    <File Include="assets/images/Jabir.jpg">
+      <publishTime>07/13/2020 12:23:40</publishTime>
+    </File>
+    <File Include="assets/images/JR.png">
+      <publishTime>06/26/2020 15:04:04</publishTime>
+    </File>
+    <File Include="assets/images/logo2.png">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/images/logo4.png">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/images/mbr-1618x1080.jpg">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/jarallax/jarallax.min.js">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/mobirise/css/mbr-additional.css">
+      <publishTime>07/07/2020 13:59:10</publishTime>
+    </File>
+    <File Include="assets/popper/popper.min.js">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/smooth-scroll/smooth-scroll.js">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/socicon/css/styles.css">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/socicon/fonts/socicon.eot">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/socicon/fonts/socicon.svg">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/socicon/fonts/socicon.ttf">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/socicon/fonts/socicon.woff">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/tether/tether.min.css">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/tether/tether.min.js">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/theme/css/style.css">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/theme/js/script.js">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/touch-swipe/jquery.touch-swipe.min.js">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/web/assets/jquery/jquery.min.js">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/web/assets/mobirise-icons/mobirise-icons.css">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/web/assets/mobirise-icons/mobirise-icons.eot">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/web/assets/mobirise-icons/mobirise-icons.svg">
+      <publishTime>04/28/2020 13:32:22</publishTime>
+    </File>
+    <File Include="assets/web/assets/mobirise-icons/mobirise-icons.ttf">
+      <publishTime>04/28/2020 13:32:24</publishTime>
+    </File>
+    <File Include="assets/web/assets/mobirise-icons/mobirise-icons.woff">
+      <publishTime>04/28/2020 13:32:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/Realestate.dll">
+      <publishTime>07/13/2020 14:26:08</publishTime>
+    </File>
+    <File Include="bin/Realestate.pdb">
+      <publishTime>07/13/2020 14:26:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Pipes.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.AccessControl.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Claims.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Principal.Windows.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:24</publishTime>
+    </File>
+    <File Include="Designs.aspx">
+      <publishTime>07/06/2020 14:29:34</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>07/13/2020 13:41:44</publishTime>
+    </File>
+    <File Include="intro-bg.JPG.jpg">
+      <publishTime>06/30/2020 22:05:50</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/12/2020 12:10:34</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,168 @@
+S:\Realestate\Realestate\bin\Realestate.dll.config
+S:\Realestate\Realestate\bin\Realestate.dll
+S:\Realestate\Realestate\bin\Realestate.pdb
+S:\Realestate\Realestate\bin\roslyn\csc.exe
+S:\Realestate\Realestate\bin\roslyn\csc.exe.config
+S:\Realestate\Realestate\bin\roslyn\csc.rsp
+S:\Realestate\Realestate\bin\roslyn\csi.exe
+S:\Realestate\Realestate\bin\roslyn\csi.exe.config
+S:\Realestate\Realestate\bin\roslyn\csi.rsp
+S:\Realestate\Realestate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Realestate\Realestate\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Realestate\Realestate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\Realestate\Realestate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\Realestate\Realestate\bin\roslyn\Microsoft.Managed.Core.targets
+S:\Realestate\Realestate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Realestate\Realestate\bin\roslyn\System.AppContext.dll
+S:\Realestate\Realestate\bin\roslyn\System.Collections.Immutable.dll
+S:\Realestate\Realestate\bin\roslyn\System.Console.dll
+S:\Realestate\Realestate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\Realestate\Realestate\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\Realestate\Realestate\bin\roslyn\System.IO.Compression.dll
+S:\Realestate\Realestate\bin\roslyn\System.IO.FileSystem.dll
+S:\Realestate\Realestate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\Realestate\Realestate\bin\roslyn\System.IO.Pipes.AccessControl.dll
+S:\Realestate\Realestate\bin\roslyn\System.IO.Pipes.dll
+S:\Realestate\Realestate\bin\roslyn\System.Reflection.Metadata.dll
+S:\Realestate\Realestate\bin\roslyn\System.Security.AccessControl.dll
+S:\Realestate\Realestate\bin\roslyn\System.Security.Claims.dll
+S:\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\Realestate\Realestate\bin\roslyn\System.Security.Principal.Windows.dll
+S:\Realestate\Realestate\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\Realestate\Realestate\bin\roslyn\System.ValueTuple.dll
+S:\Realestate\Realestate\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\Realestate\Realestate\bin\roslyn\System.Xml.XmlDocument.dll
+S:\Realestate\Realestate\bin\roslyn\System.Xml.XPath.dll
+S:\Realestate\Realestate\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\Realestate\Realestate\bin\roslyn\vbc.exe
+S:\Realestate\Realestate\bin\roslyn\vbc.exe.config
+S:\Realestate\Realestate\bin\roslyn\vbc.rsp
+S:\Realestate\Realestate\bin\roslyn\VBCSCompiler.exe
+S:\Realestate\Realestate\bin\roslyn\VBCSCompiler.exe.config
+S:\Realestate\Realestate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Realestate\Realestate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Realestate\Realestate\obj\Debug\Realestate.csprojAssemblyReference.cache
+S:\Realestate\Realestate\obj\Debug\Realestate.csproj.CoreCompileInputs.cache
+S:\Realestate\Realestate\obj\Debug\Realestate.csproj.CopyComplete
+S:\Realestate\Realestate\obj\Debug\Realestate.dll
+S:\Realestate\Realestate\obj\Debug\Realestate.pdb
+S:\JB\Realestate\Realestate\bin\Realestate.dll.config
+S:\JB\Realestate\Realestate\bin\Realestate.dll
+S:\JB\Realestate\Realestate\bin\Realestate.pdb
+S:\JB\Realestate\Realestate\bin\roslyn\csc.exe
+S:\JB\Realestate\Realestate\bin\roslyn\csc.exe.config
+S:\JB\Realestate\Realestate\bin\roslyn\csc.rsp
+S:\JB\Realestate\Realestate\bin\roslyn\csi.exe
+S:\JB\Realestate\Realestate\bin\roslyn\csi.exe.config
+S:\JB\Realestate\Realestate\bin\roslyn\csi.rsp
+S:\JB\Realestate\Realestate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\JB\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\JB\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\JB\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\JB\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\JB\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\JB\Realestate\Realestate\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\JB\Realestate\Realestate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\JB\Realestate\Realestate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\JB\Realestate\Realestate\bin\roslyn\Microsoft.Managed.Core.targets
+S:\JB\Realestate\Realestate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\JB\Realestate\Realestate\bin\roslyn\System.AppContext.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Collections.Immutable.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Console.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.IO.Compression.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.IO.FileSystem.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.IO.Pipes.AccessControl.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.IO.Pipes.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Reflection.Metadata.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Security.AccessControl.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Security.Claims.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Security.Principal.Windows.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.ValueTuple.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Xml.XmlDocument.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Xml.XPath.dll
+S:\JB\Realestate\Realestate\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\JB\Realestate\Realestate\bin\roslyn\vbc.exe
+S:\JB\Realestate\Realestate\bin\roslyn\vbc.exe.config
+S:\JB\Realestate\Realestate\bin\roslyn\vbc.rsp
+S:\JB\Realestate\Realestate\bin\roslyn\VBCSCompiler.exe
+S:\JB\Realestate\Realestate\bin\roslyn\VBCSCompiler.exe.config
+S:\JB\Realestate\Realestate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\JB\Realestate\Realestate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\JB\Realestate\Realestate\obj\Debug\Realestate.csprojAssemblyReference.cache
+S:\JB\Realestate\Realestate\obj\Debug\Realestate.csproj.CoreCompileInputs.cache
+S:\JB\Realestate\Realestate\obj\Debug\Realestate.csproj.CopyComplete
+S:\JB\Realestate\Realestate\obj\Debug\Realestate.dll
+S:\JB\Realestate\Realestate\obj\Debug\Realestate.pdb
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\Realestate.dll.config
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\Realestate.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\Realestate.pdb
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\csc.exe
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\csc.exe.config
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\csc.rsp
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\csi.exe
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\csi.exe.config
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\csi.rsp
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\Microsoft.Managed.Core.targets
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.AppContext.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Collections.Immutable.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Console.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.IO.Compression.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.IO.FileSystem.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.IO.Pipes.AccessControl.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.IO.Pipes.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Reflection.Metadata.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Security.AccessControl.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Security.Claims.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Security.Principal.Windows.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.ValueTuple.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Xml.XmlDocument.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Xml.XPath.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\vbc.exe
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\vbc.exe.config
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\vbc.rsp
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\VBCSCompiler.exe
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\roslyn\VBCSCompiler.exe.config
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\Copmlete prjct\JB\Realestate\Realestate\obj\Debug\Realestate.csproj.CoreCompileInputs.cache
+S:\Copmlete prjct\JB\Realestate\Realestate\obj\Debug\Realestate.csproj.CopyComplete
+S:\Copmlete prjct\JB\Realestate\Realestate\obj\Debug\Realestate.dll
+S:\Copmlete prjct\JB\Realestate\Realestate\obj\Debug\Realestate.pdb
+S:\Copmlete prjct\JB\Realestate\Realestate\obj\Debug\Realestate.csproj.AssemblyReference.cache
